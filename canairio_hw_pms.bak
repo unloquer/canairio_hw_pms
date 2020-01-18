@@ -1,0 +1,38 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ttgo-esp32:TTGO-ESP32 U?
+U 1 1 5D3DE6A1
+P 3610 3899
+F 0 "U?" H 4035 5696 60  0000 C CNN
+F 1 "TTGO-ESP32" H 4035 5590 60  0000 C CNN
+F 2 "" H 3610 3899 60  0001 C CNN
+F 3 "" H 3610 3899 60  0001 C CNN
+	1    3610 3899
+	1    0    0    -1  
+$EndComp
+$Comp
+L aqa:PMS7003 U?
+U 1 1 5D3DEF02
+P 6278 2698
+F 0 "U?" H 6253 3323 50  0000 C CNN
+F 1 "PMS7003" H 6253 3232 50  0000 C CNN
+F 2 "MiscLib:PMS7003" H 6278 2698 50  0001 C CNN
+F 3 "" H 6278 2698 50  0001 C CNN
+	1    6278 2698
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
